@@ -1,5 +1,4 @@
-﻿# KSI_Supervised_Learning
-# Accident Severity Prediction Project
+# Accident Severity Prediction Project - KSI
 
 ## Overview
 This project centers on the utilization of the KSI (Killed or Seriously Injured) dataset. Through the integration of a predictive model, the system aims to discern the outcomes of accidents, specifically classifying them as fatal or non-fatal incidents. By employing advanced data analysis techniques, our project strives to provide valuable insights into predicting the severity of accidents. This predictive capability has the potential to substantially improve road safety measures and facilitate the development of proactive strategies for accident prevention.
@@ -18,7 +17,7 @@ This project centers on the utilization of the KSI (Killed or Seriously Injured)
 ## Installation
 1. Clone the repository.
 2. Navigate to the folder named 'Front_End'
-3. Run the command python app.py
+3. Run the command 'python app.py'
 
 ## Usage
 1. Input relevant parameters when prompted.
