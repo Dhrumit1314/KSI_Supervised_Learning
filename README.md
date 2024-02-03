@@ -17,7 +17,7 @@ This project centers on the utilization of the KSI (Killed or Seriously Injured)
 ## Installation
 1. Clone the repository.
 2. Navigate to the folder named 'Front_End'
-3. Run the command 'python app.py'
+3. Run the command `python app.py`
 
 ## Usage
 1. Input relevant parameters when prompted.
